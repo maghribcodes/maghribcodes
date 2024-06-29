@@ -14,6 +14,6 @@ I'm a recent Computer graduate with a focus in web development.
 
 <p align="center">
   <a href="https://github.com/maghribcodes">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Thinkright20&theme=dark&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maghribcodes&theme=merko&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
