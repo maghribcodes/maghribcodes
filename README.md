@@ -1,6 +1,6 @@
 # Novisa Ardewati
 
-**`Fullstack Developer`**
+**`Web Developer`**
 
 I'm a recent Computer graduate with a focus in web development. 
 
