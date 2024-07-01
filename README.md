@@ -2,8 +2,6 @@
 
 **`Web Developer`**
 
-I'm a recent Computer graduate with a focus in web development. 
-
 ---
 
 ## Languages and Tools
