@@ -1,8 +1,6 @@
-Novisa Ardewati
+## Novisa Ardewati
 
 **`Web Developer`**
-
----
 
 ## Languages and Tools
 
